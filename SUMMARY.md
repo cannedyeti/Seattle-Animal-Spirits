@@ -12,7 +12,7 @@
   * [Basic Terminal](01_basics/basic_terminal.md)
   * [Create Move Files](01_basics/create_move_files_in_terminal.md)
   * [Command Line Lab](01_basics/commandLineLab.md)
-  * [Homework Command Line](01_basics/ah_star_wars_cli.md)
+<!--   * [Homework Command Line](01_basics/ah_star_wars_cli.md)
   * [Loop Morning Excercise](02_front_end/loopLab.md)
   * [Object Properties](02_front_end/ObjectProps.md)
   * [Object Methods](02_front_end/objectMethods.md)
@@ -23,4 +23,4 @@
   * [functions](02_front_end/functions.md)
   * [arrays](02_front_end/arrays.md)
   * [selectors](02_front_end/selector.md)
-  * [Layout Homework](02_front/cssChallenge.md)
+  * [Layout Homework](02_front/cssChallenge.md) -->
