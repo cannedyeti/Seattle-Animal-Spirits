@@ -9,7 +9,7 @@
 * wk4 - Networking
 * wk5 - Branding
 * wk6 - Resumes
-* wk7 - 1:1's with Career Coach (first version of Portfolio)
+* wk7 - 1:1's with Career Coach (first version of Portfolio due)
 * wk8 - LinkedIn
 * wk9 - Interviewing
 * wk10 - Whiteboarding
