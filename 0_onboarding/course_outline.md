@@ -26,8 +26,8 @@
   - Store data in MongoDB as Collections using NoSQL
   - Build consumable REST APIs with Sinatra
   - Deploy services and consume the
-* **Section 4: Chicago-Specific Content**
-  - Learn skills focused for Chicago
+* **Section 4: Seattle-Specific Content**
+  - Learn skills focused for Seattle
   - Building single page applications (SPAs) with React.js
   - Bonus Lessons
   - Computer Science Fundamentals

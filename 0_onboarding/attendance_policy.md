@@ -8,9 +8,9 @@ During the cohort, General Assembly enforces a strict attendance policy.
 
 We understand that you have a life to live. If something comes up, please just let us know as a group. Email:
 
-* ksella@ga.co
+* cpotebnya@gmail.com - Conner
 * james.haff@ga.co
-* jeff.krantz@ga.co
+
 
 
 #### Field Trips
@@ -19,7 +19,7 @@ Students are required to attend field trips for professional development, networ
 
 #### Internships/Apprenticeships
 
-If a student finds work as an apprentice or intern, they may discuss the opportunity with the instructional staff, Christa, and Kevin. If it will not interfere with your classwork, we typically have no problem with you leaving class early. We're here to help you change your career!
+If a student finds work as an apprentice or intern, they may discuss the opportunity with the instructional staff, Beth, and Bryna. If it will not interfere with your classwork, we typically have no problem with you leaving class early. We're here to help you change your career!
 
 #### Approved Absences
 
