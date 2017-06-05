@@ -14,4 +14,7 @@
   * [Command Line Lab](01_basics/commandLineLab.md)
 * [Javascript](02_front_end/functions.md)
    * [functions](02_front_end/functions.md)
+   * [dataTypes](02_front_end/dataTypes.md)
+   * [concatination](02_front_end/concatination.md)
+   * [arrays dataTypes](02_front_end/arrays.md)
 * [Homework](01_basics/ah_star_wars_cli.md)
