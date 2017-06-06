@@ -19,4 +19,6 @@
    * [arrays dataTypes](02_front_end/arrays.md)
    * [objects practice](02_front_end/object.md)
    * [object props](02_front_end/ObjectProps.md)
+   * [loops](02_front_end/loops.md)
+   * [loop lab](02_front_end/loopLab.md)
 * [Homework](01_basics/ah_star_wars_cli.md)
